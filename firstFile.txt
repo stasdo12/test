@@ -12,3 +12,7 @@ Line 11
 (git_1 TASK 19 FOLDER 1 Change another two lines in firstFile.txt)Line 8
 (git_1 from Folder1 TASK 20 chache another line in firstFile.txt(not the same as in 18 19))Line 9
 (git_1 from Folder1 TASK 20 chache another line in firstFile.txt(not the same as in 18 19))LLine 10:
+(git_1 TASK 19 FOLDER 1 Change another two lines in firstFile.txt)Line 7
+(git_1 TASK 19 FOLDER 1 Change another two lines in firstFile.txt)Line 8
+(git_1 from Folder1 TASK 20 chache another line in firstFile.txt(not the same as in 18 19))Line 9
+(git_1 from Folder1 TASK 20 chache another line in firstFile.txt(not the same as in 18 19))LLine 10
