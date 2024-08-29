@@ -1,5 +1,7 @@
 (git_1 TASK 5 Update and commit the same two lines with the different info in secondFile.txt)Line 1
 (git_1 TASK 5 Update and commit the same two lines with the different info in secondFile.txt)Line 2
+(git_2 Task 4 update and commit any two lines in secondFile.txt)Line 1
+(git_2 Task 4 update and commit any two lines in secondFile.txt)Line 2
 Line 3
 Line 4
 Line 5
